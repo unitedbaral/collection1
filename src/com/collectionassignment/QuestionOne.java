@@ -1,4 +1,3 @@
-
 package com.collectionassignment;
 
 import java.util.*;
@@ -12,14 +11,7 @@ import java.util.*;
 
     
   
-//       Set<String,Integer>  m;
-//        m = new HashSet<>();
-//        for (String a : args) {
-//            Integer freq = m.get(a);
-//            m.put(a, (freq == null) ? 1 : freq + 1);
-//            }
-//               
-//       System.out.println(m.size());
+
 //       
 //        System.out.println(m);
 //       
